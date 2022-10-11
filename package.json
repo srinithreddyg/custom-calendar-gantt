@@ -1,0 +1,31 @@
+{
+  "name": "custom-calendar-gantt",
+  "version": "1.0.8",
+  "description": "gantt chart with calendar view with customizable fields",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinithreddyg/custom-calendar-gantt.git"
+  },
+  "author": "Srinith Reddy Gujula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinithreddyg/custom-calendar-gantt/issues"
+  },
+  "homepage": "https://github.com/srinithreddyg/custom-calendar-gantt#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "currency.js": "^2.0.4",
+    "dayjs": "^1.11.5",
+    "use-resize-observer": "^9.0.2"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
