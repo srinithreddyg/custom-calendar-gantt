@@ -1,6 +1,6 @@
 {
   "name": "custom-calendar-gantt",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "gantt chart with calendar view with customizable fields",
   "main": "index.js",
   "types": "index.d.ts",
@@ -20,11 +20,16 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
-    "currency.js": "^2.0.4",
     "dayjs": "^1.11.5",
     "use-resize-observer": "^9.0.2"
   },
-  "keywords": [],
+  "keywords": [
+    "gantt chart",
+    "customizable gantt",
+    "gantt calendar",
+    "gantt",
+    "calendar gantt"
+  ],
   "devDependencies": {
     "typescript": "^4.8.4"
   }
